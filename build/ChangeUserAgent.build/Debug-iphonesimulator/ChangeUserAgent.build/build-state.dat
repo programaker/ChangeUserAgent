@@ -1,256 +1,0 @@
-TChangeUserAgent
-v7
-r0
-t319684724.501252
-cCheck dependencies
-cProcessInfoPlistFile /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/Info.plist ChangeUserAgent-Info.plist
-cCompileXIB /Users/programaker/Development/projects/ideais/ChangeUserAgent/MainWindow.xib
-cCompileXIB /Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgentViewController.xib
-cProcessPCH /var/folders/nQ/nQxGSnBNEhW12KOwCg4oR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeUserAgent_Prefix-esvttphfoqjbbcgqtjkjmmhkukaf/ChangeUserAgent_Prefix.pch.gch ChangeUserAgent_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/main.o /Users/programaker/Development/projects/ideais/ChangeUserAgent/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentAppDelegate.o /Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentViewController.o /Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent normal i386
-cGenerateDSYMFile /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app.dSYM /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent
-cTouch /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004CC128950000000000000110
-t1287727253
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgentViewController.xib
-c000000004D5AA9200000000000003CF9
-t1297787168
-s15609
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgent_Prefix.pch
-c000000004D5AA8BD00000000000000C7
-t1297787069
-s199
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentAppDelegate.h
-c000000004D5AA8BD0000000000000210
-t1297787069
-s528
-i<UIKit/UIKit.h>
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentAppDelegate.m
-c000000004D5DC8EB0000000000000C19
-t1297991915
-s3097
-i"ChangeUserAgentAppDelegate.h"
-i"ChangeUserAgentViewController.h"
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentViewController.h
-c000000004D5AADAD000000000000011A
-t1297788333
-s282
-i<UIKit/UIKit.h>
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentViewController.m
-c000000004D5DC8DA0000000000000575
-t1297991898
-s1397
-i"ChangeUserAgentViewController.h"
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/MainWindow.xib
-c000000004D5AA8BD0000000000004E89
-t1297787069
-s20105
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgent.LinkFileList
-c000000004D5AA8CB0000000000000215
-t1297787083
-s533
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentAppDelegate.o
-t1297991924
-s53392
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentViewController.o
-t1297991924
-s42580
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/main.o
-t1297787084
-s6352
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app
-t1297991924
-s238
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app.dSYM
-t1297991924
-s102
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent
-t1297991924
-s18484
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgentViewController.nib
-t1297787223
-s874
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/Info.plist
-t1297894145
-s627
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/MainWindow.nib
-t1297787083
-s1139
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/PkgInfo
-t1297894145
-s8
-
-N/Users/programaker/Development/projects/ideais/ChangeUserAgent/main.m
-c000000004D5AA8BD0000000000000172
-t1297787069
-s370
-i<UIKit/UIKit.h>
-
-N/var/folders/nQ/nQxGSnBNEhW12KOwCg4oR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeUserAgent_Prefix-esvttphfoqjbbcgqtjkjmmhkukaf/ChangeUserAgent_Prefix.pch.gch
-t1297787084
-s15453392
-
-NChangeUserAgent-Info.plist
-c000000004D5C322A0000000000000379
-t1297887786
-s889
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies319684724#319684724#0(0"0(0#1#0"8625073760#0"0#
-
-CCompileC build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentAppDelegate.o /Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s319684724.006170
-e319684724.457823
-r1
-xCompileC
-xbuild/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentAppDelegate.o
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@107"Compile /Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentAppDelegate.m319684724#319684724#0(0"0(0#0#99"/Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentAppDelegate.m8609356096#2470"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-generated-files.hmap -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-own-target-headers.hmap -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-all-target-headers.hmap -iquote /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-project-headers.hmap -F/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/include -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/DerivedSources/i386 -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/DerivedSources -include /var/folders/nQ/nQxGSnBNEhW12KOwCg4oR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeUserAgent_Prefix-esvttphfoqjbbcgqtjkjmmhkukaf/ChangeUserAgent_Prefix.pch -c /Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentAppDelegate.m -o /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentAppDelegate.o0#
-
-CCompileC build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentViewController.o /Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s319684724.007427
-e319684724.460460
-r1
-xCompileC
-xbuild/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentViewController.o
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@110"Compile /Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentViewController.m319684724#319684724#0(0"0(0#0#102"/Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentViewController.m8603941504#2476"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-generated-files.hmap -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-own-target-headers.hmap -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-all-target-headers.hmap -iquote /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-project-headers.hmap -F/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/include -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/DerivedSources/i386 -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/DerivedSources -include /var/folders/nQ/nQxGSnBNEhW12KOwCg4oR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeUserAgent_Prefix-esvttphfoqjbbcgqtjkjmmhkukaf/ChangeUserAgent_Prefix.pch -c /Users/programaker/Development/projects/ideais/ChangeUserAgent/Classes/ChangeUserAgentViewController.m -o /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgentViewController.o0#
-
-CCompileC build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/main.o /Users/programaker/Development/projects/ideais/ChangeUserAgent/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s319479884.678849
-e319479884.824698
-r1
-xCompileC
-xbuild/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/main.o
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@77"Compile /Users/programaker/Development/projects/ideais/ChangeUserAgent/main.m319479884#319479884#0(0"0(0#0#69"/Users/programaker/Development/projects/ideais/ChangeUserAgent/main.m8600535616#2418"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-generated-files.hmap -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-own-target-headers.hmap -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-all-target-headers.hmap -iquote /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-project-headers.hmap -F/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/include -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/DerivedSources/i386 -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/DerivedSources -include /var/folders/nQ/nQxGSnBNEhW12KOwCg4oR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeUserAgent_Prefix-esvttphfoqjbbcgqtjkjmmhkukaf/ChangeUserAgent_Prefix.pch -c /Users/programaker/Development/projects/ideais/ChangeUserAgent/main.m -o /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgentViewController.xib
-s319480022.799326
-e319480023.149617
-r1
-xCompileXIB
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgentViewController.xib
-lSLF07#2@44"CompileXIB ChangeUserAgentViewController.xib319480022#319480023#0(0"0(0#0#96"/Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgentViewController.xib8600783808#768"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgentViewController.nib /Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgentViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/programaker/Development/projects/ideais/ChangeUserAgent/MainWindow.xib
-s319479883.246438
-e319479883.732479
-r1
-xCompileXIB
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib319479883#319479883#0(0"0(0#0#77"/Users/programaker/Development/projects/ideais/ChangeUserAgent/MainWindow.xib8600333824#730"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/MainWindow.nib /Users/programaker/Development/projects/ideais/ChangeUserAgent/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CGenerateDSYMFile /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app.dSYM /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent
-s319684724.483979
-e319684724.498975
-r1
-xGenerateDSYMFile
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app.dSYM
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent
-lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/ChangeUserAgent.app.dSYM build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent319684724#319684724#0(0"0(0#0#126"/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent8626367232#559"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    /Developer/usr/bin/dsymutil /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent -o /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app.dSYM0#
-
-CLd /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent normal i386
-s319684724.460586
-e319684724.483870
-r1
-xLd
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent
-xnormal
-xi386
-lSLF07#2@131"Link /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent319684724#319684724#0(0"0(0#0#0"8626591872#1140"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator -F/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator -filelist /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/Objects-normal/i386/ChangeUserAgent.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/ChangeUserAgent0#
-
-CProcessInfoPlistFile /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/Info.plist ChangeUserAgent-Info.plist
-s319586945.234002
-e319586945.257283
-r1
-xProcessInfoPlistFile
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/Info.plist
-xChangeUserAgent-Info.plist
-lSLF07#2@34"Process ChangeUserAgent-Info.plist319586945#319586945#0(0"0(0#0#89"/Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgent-Info.plist27303536605069420#655"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    builtin-infoPlistUtility ChangeUserAgent-Info.plist -genpkginfo /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app/Info.plist0#
-
-CProcessPCH /var/folders/nQ/nQxGSnBNEhW12KOwCg4oR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeUserAgent_Prefix-esvttphfoqjbbcgqtjkjmmhkukaf/ChangeUserAgent_Prefix.pch.gch ChangeUserAgent_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s319479883.732872
-e319479884.678691
-r1
-xProcessPCH
-x/var/folders/nQ/nQxGSnBNEhW12KOwCg4oR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeUserAgent_Prefix-esvttphfoqjbbcgqtjkjmmhkukaf/ChangeUserAgent_Prefix.pch.gch
-xChangeUserAgent_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@37"Precompile ChangeUserAgent_Prefix.pch319479883#319479884#0(0"0(0#0#89"/Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgent_Prefix.pch8602268480#2278"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-generated-files.hmap -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-own-target-headers.hmap -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-all-target-headers.hmap -iquote /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/ChangeUserAgent-project-headers.hmap -F/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/include -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/DerivedSources/i386 -I/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/ChangeUserAgent.build/Debug-iphonesimulator/ChangeUserAgent.build/DerivedSources -c /Users/programaker/Development/projects/ideais/ChangeUserAgent/ChangeUserAgent_Prefix.pch -o /var/folders/nQ/nQxGSnBNEhW12KOwCg4oR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeUserAgent_Prefix-esvttphfoqjbbcgqtjkjmmhkukaf/ChangeUserAgent_Prefix.pch.gch0#
-
-CTouch /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app
-s319684724.499061
-e319684724.501218
-r1
-xTouch
-x/Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app
-lSLF07#2@116"Touch /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app319684724#319684724#0(0"0(0#0#0"8626304096#414"    cd /Users/programaker/Development/projects/ideais/ChangeUserAgent    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:$JAVA_HOME/bin:$ANT_HOME/bin:$MAVEN_HOME/bin:$IOKE_HOME/bin:$REBOL_HOME/bin:$GROOVY_HOME/bin:$GRAILS_HOME/bin"    /usr/bin/touch -c /Users/programaker/Development/projects/ideais/ChangeUserAgent/build/Debug-iphonesimulator/ChangeUserAgent.app0#
-
