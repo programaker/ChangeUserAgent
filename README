@@ -1,2 +1,4 @@
 How to change an app's User-Agent. 
 I'm using the Mac OS X Web Sharing to test, with a modified version of the personal page (included in this project).
+
+The secret is the class method in the AppDelegate =}
